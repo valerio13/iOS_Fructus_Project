@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B9096A692731A09000FEF420 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9096A682731A09000FEF420 /* OnboardingView.swift */; };
 		B979B7D7272A8DE4001C057A /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B979B7D6272A8DE4001C057A /* StartButtonView.swift */; };
 		B9D2B2272729538100102DA4 /* FructusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2B2262729538100102DA4 /* FructusApp.swift */; };
 		B9D2B2292729538100102DA4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D2B2282729538100102DA4 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B9096A682731A09000FEF420 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		B979B7D6272A8DE4001C057A /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 		B9D2B2232729538100102DA4 /* Fructus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fructus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9D2B2262729538100102DA4 /* FructusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FructusApp.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 			children = (
 				B9D2B2262729538100102DA4 /* FructusApp.swift */,
 				B9D2B2282729538100102DA4 /* ContentView.swift */,
+				B9096A682731A09000FEF420 /* OnboardingView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				B9D2B2372729978B00102DA4 /* FruitCardView.swift in Sources */,
 				B979B7D7272A8DE4001C057A /* StartButtonView.swift in Sources */,
 				B9D2B2292729538100102DA4 /* ContentView.swift in Sources */,
+				B9096A692731A09000FEF420 /* OnboardingView.swift in Sources */,
 				B9D2B2272729538100102DA4 /* FructusApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
